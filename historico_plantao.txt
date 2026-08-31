@@ -1,0 +1,6 @@
+CPF: 12345678900 | Nome: Diego Surgik | Idade: 22 | Plano: SUS | Urgência: 🟢 SALA VERDE (Pouco Urgente)
+Senha: Z-001 | CPF: 12345678909 | Nome: Diego Surgik | Idade: 22 | Plano: Convênio | Classificação: 🔵 SALA AZUL (Não Urgente)
+Senha: V-001 | CPF: 12345678909 | Nome: Diego Surgik | Idade: 22 | Plano: Convênio | Classificação: 🔴 SALA VERMELHA (Imediato)
+Senha: V-001 | CPF: 09876543211 | Nome: Diego | Idade: 22 | Plano: SUS | Classificação: 🔴 SALA VERMELHA (Imediato)
+Senha: Z-001 | CPF: 09878686089 | Nome: Diego | Idade: 22 | Plano: SUS | Classificação: 🔵 SALA AZUL (Não Urgente)
+Senha: E-001 | Nome: DIEGO | Idade: 22 | CPF: 1010096124 | Plano: Prevent Senior | 🟢 SALA VERDE (Pouco Urgente)
